@@ -6,3 +6,8 @@ Some text
 The family is very important
 
 Good luck everyone.
+
+## Local Development
+
+Open index.html in your browser.
+I love you too.
